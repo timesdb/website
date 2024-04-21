@@ -1,0 +1,24 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* @font-face {
+    font-family: 'Arantxa Extra';
+    src: url('fonts/Arantxa-ExtraLight.eot');
+    src: local('Arantxa Extra Light'), local('fonts/Arantxa-ExtraLight'),
+        url('fonts/Arantxa-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Arantxa-ExtraLight.woff2') format('woff2'),
+        url('fonts/Arantxa-ExtraLight.woff') format('woff'),
+        url('fonts/Arantxa-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+} */
+
+/* 
+
+.logo-name {
+    font-family: 'Arantxa Extra';
+    font-weight: 200;
+    font-style: normal;
+} */
